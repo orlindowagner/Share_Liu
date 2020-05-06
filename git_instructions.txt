@@ -12,6 +12,7 @@ Subir algum arquivo/modificação no github
 
 $ git add nome_do_arquivo_ou_pasta
 $ git commit -m "Comentário que vc quiser..mas lembre-se que essa parte é muuuito importante!!"  #Com isso vc deixou preparado o arquivo/conteúdo a ser mandado para a nuvem
+$ git status   #Para verificar o que foi "commitado" mas que ainda falta mandar para a nuvem
 $ git push origin master # Se vc não estiver no braço principal use git push nome_do_branch
 
 
