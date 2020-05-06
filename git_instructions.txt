@@ -1,4 +1,4 @@
-
+﻿
 ########### 05/05/2020 ##############
 Instrucoes basiscas de utilizacao do Git Hub -- Com Orlindo
 
@@ -18,7 +18,7 @@ $ git push origin master # Se vc não estiver no braço principal use git push n
 Elielson:
 
 
-Orlindo:
+Orlindo: Nesta parte testaremos o git pull
 
 
 
