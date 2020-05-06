@@ -1,0 +1,68 @@
+
+########### 05/05/2020 ##############
+Instrucoes basiscas de utilizacao do Git Hub -- Com Orlindo
+
+No terminal do Linux
+
+$ git init
+$ git clone "coloque_o_aqui_link" #Com isso vc baixa algum conteúdo de outro projeto já inicializado diretamente do github
+
+
+Subir algum arquivo/modificação no github
+
+$ git add nome_do_arquivo_ou_pasta
+$ git commit -m "Comentário que vc quiser..mas lembre-se que essa parte é muuuito importante!!"  #Com isso vc deixou preparado o arquivo/conteúdo a ser mandado para a nuvem
+$ git push origin master # Se vc não estiver no braço principal use git push nome_do_branch
+
+
+Elielson:
+
+
+Orlindo:
+
+
+
+
+
+
+
+########### 05/05/2019 ##############
+Instrucoes basiscas de utilizacao do Git Hub -- Com Pi e Orlindo
+
+
+Configuracao
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
+Navegacao basica padrao (interna)
+init	#iniciar projeto
+git status	#visualizar o que foi feito ateh o momento
+git add nome_arquivo.txt       #adicionou o arquivo no repositorio por mim criado
+git commit -m "Este eh primeiro"	#commit com uma (auto)mensagem MUITO IMPORTANTE PARA SE ORGANIZAR O FLUXO DE TRABALHO!!!!!
+git log 	#traz os commits detalhados e "preenchido" uma cabecalhozim
+
+Navegacao basica padrao (externa)
+git remote add origin https://github.com/ElielsonSPereira/treinamento_pi.git 	#agora, associamos nosso repositorio local ao Git Hub
+git push -u origin master
+
+
+Collaborations
+git pull 	#trazer para meu note o que o Orlindo fez
+git revert codigo_no_git_gerado pelo Orlindo 	#para reverter todas as versoes que o Orlindo fez
+git push 	#empurrar para o repositorio online que nao quero aceitar as modificacoes do Orlindo e restaurar a versao
+
+
+Boa noite, pessoal!
+
+Estamos iniciando nosso período!!!
+
+Sou Elielson, estudante de mestrado em Astronomia e os acompanharei no curso de Mecânica Geral.
+
+Não deixem para estudar só no final do curso. Manténham-se fazendo as atividades semana pós semana e acumulem os pontos das atividades. Estarei aqui para auxiliá-los no que precisarem.
+
+
+Atenciosamente,
+
+Elielson Soares Pereira.
+
